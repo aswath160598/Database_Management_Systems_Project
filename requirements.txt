@@ -1,0 +1,6 @@
+tabulate
+pymysql
+seaborn
+matplotlib
+numpy
+pandas
